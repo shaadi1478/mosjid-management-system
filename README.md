@@ -97,6 +97,8 @@ npm install
 3. Run the project
 npm run dev
 
+live link: mosjidms.netlify.app
+
 🔌 API Setup (Google Sheets)
 
 This project uses Google Apps Script as a backend.
