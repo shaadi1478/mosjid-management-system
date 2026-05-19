@@ -97,7 +97,8 @@ npm install
 3. Run the project
 npm run dev
 
-live link: mosjidms.netlify.app
+live link: 
+https://mosjidms.netlify.app/
 
 🔌 API Setup (Google Sheets)
 
